@@ -1,1 +1,1 @@
-[Greek-Yogurt]:(https://yuliia666.github.io/greek-yogurt/)
+Greek-Yogurt: https://yuliia666.github.io/greek-yogurt/
